@@ -1,6 +1,6 @@
 # Credentials (You must put your own credentials here)
-host = 'localhost'
-username = 'root'
-password = 'Maharshi#20'
+host = 'Your host'
+username = 'Your Username'
+password = 'YOur password'
 
 database = 'employee_management'
